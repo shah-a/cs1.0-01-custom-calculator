@@ -1,5 +1,5 @@
-# Ali Shah
-# 2020-09-03
+# Bismillah al-Rahmaan al-Raheem
+# Ali Shah | Sept. 03, 2020
 # CS1.0 Assignment 1: Custom Calculator
 
 # This program asks user to input time and distance, then calculates approximate speed of travel
